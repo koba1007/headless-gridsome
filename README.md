@@ -38,4 +38,4 @@ See all [options](https://gridsome.org/plugins/@gridsome/source-wordpress).
 
 This starter includes basic templates for categories, tags and posts.
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/koba1007/headless-gridsome.git)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/koba1007/headless-gridsome)
